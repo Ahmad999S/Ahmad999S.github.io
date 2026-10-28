@@ -1,0 +1,1 @@
+const box=document.getElementById('search');const records=[...document.querySelectorAll('[data-publication]')];box.addEventListener('input',()=>{const q=box.value.toLocaleLowerCase().trim();let n=0;records.forEach(r=>{r.hidden=!r.textContent.toLocaleLowerCase().includes(q);if(!r.hidden)n++;});document.getElementById('result-count').textContent=n+' publications shown';});
