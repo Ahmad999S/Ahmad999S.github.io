@@ -584,5 +584,95 @@
     "abstract": "Disruptions in healthcare supply chains pose a risk to the availability of essential medical supplies and the sustainability of patient care. Although artificial intelligence (AI) has been employed in the management of supply chain risks, the lack of transparency of many of these approaches has restricted the adoption of such tools by healthcare procurement decisionmakers. This paper will follow a design science research paradigm by introducing the conceptual design and descriptive assessment of an explainable AI-based online decision-support system in evaluating health care supply chain risks. The system incorporates the variables of supplier dependability, lead-time inconsistency, demand uncertainty, and the importance of medical supplies, which are integrated into an interpretable AI framework for realtime decision support. Risk factors and model outputs are used to provide understandable insights, fostering explainability and enhancing trust and ease of use in hospital procurement. A descriptive evaluation is undertaken using simulated healthcare supply chain scenarios to evaluate the functionality, interpretability, and decision-making influence of the system. The findings indicate the system can recognize and explain the factors of high-risk supply situations and can assist in the undertaking of proactive risk mitigation strategies. This study demonstrates how the operational reliability and resilience of supply chains in health care can be enhanced by integrating explainable AI with online decision-support systems.",
     "abstract_licence": "https://creativecommons.org/licenses/by/4.0",
     "source_date": "2026-10-20"
+  },
+  {
+    "title": "Exploring the harm of cognitive overload content to sustainable consumer choices",
+    "doi": "10.23925/2179-3565.2026v17i2e76450",
+    "year": "2026",
+    "type": "Article",
+    "venue": "Journal on Innovation and Sustainability RISUS",
+    "creators": [
+      {
+        "name": "Dina S. AlGhamdi",
+        "role": "author"
+      },
+      {
+        "name": "Suleiman Ibrahim Mohammad",
+        "role": "author"
+      },
+      {
+        "name": "Zahid Hussain",
+        "role": "author"
+      },
+      {
+        "name": "Ahmad Moh’d Mansour",
+        "role": "author"
+      },
+      {
+        "name": "Asokan Vasudevan",
+        "role": "author"
+      },
+      {
+        "name": "Ahmad Shaheen",
+        "role": "author"
+      }
+    ],
+    "url": "https://ahmad999s.github.io/research/p-7db2a456268c.html",
+    "publisher_url": "https://doi.org/10.23925/2179-3565.2026v17i2e76450",
+    "abstract": "",
+    "abstract_licence": "",
+    "source_date": "2026-10-20"
+  },
+  {
+    "title": "Investigating the Impact of Influencers Content Value on Followers Purchase Intentions: An Application on Youtube Influencers in Developing Countries",
+    "doi": "10.47191/ijsshr/v5-i7-29",
+    "year": "2022",
+    "type": "Article",
+    "venue": "International Journal of Social Science and Human Research",
+    "creators": [
+      {
+        "name": "Mohamed Abdelazim Abo El-Naga",
+        "role": "author"
+      },
+      {
+        "name": "Eman Muhammad Abdel Salam",
+        "role": "author"
+      },
+      {
+        "name": "Ahmad Yahya Shaheen",
+        "role": "author"
+      }
+    ],
+    "url": "https://ahmad999s.github.io/research/p-fb5bc9a630c5.html",
+    "publisher_url": "https://doi.org/10.47191/ijsshr/v5-i7-29",
+    "abstract": "",
+    "abstract_licence": "",
+    "source_date": "2026-10-20"
+  },
+  {
+    "title": "Examining the Impact of Mobile Service Quality Dimensions on Customer Satisfaction, Trust, and Loyalty in the Telecommunications Sector in Egypt During the Lockdown Period of the COVID-19 Pandemic",
+    "doi": "10.1362/204440824x17074776135950",
+    "year": "2024",
+    "type": "Article",
+    "venue": "Social Business",
+    "creators": [
+      {
+        "name": "Eman Mohamed Abd-El-Salam",
+        "role": "author"
+      },
+      {
+        "name": "Shaymaa Farid Fawzy",
+        "role": "author"
+      },
+      {
+        "name": "Ahmad Yahya Shaheen",
+        "role": "author"
+      }
+    ],
+    "url": "https://ahmad999s.github.io/research/p-3bee75fbe580.html",
+    "publisher_url": "https://doi.org/10.1362/204440824x17074776135950",
+    "abstract": "",
+    "abstract_licence": "",
+    "source_date": "2026-10-20"
   }
 ]
