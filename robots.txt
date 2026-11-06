@@ -1,0 +1,18 @@
+# Dr Ahmad Yahya Shaheen: research hub. All search engines and AI search/answer crawlers are welcome.
+User-agent: *
+Allow: /
+
+# AI search and user-fetch agents named explicitly (OpenAI, Anthropic, Perplexity docs, Nov 2026)
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Googlebot
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://ahmad999s.github.io/research/sitemap.xml
